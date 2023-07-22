@@ -42,7 +42,7 @@ class ExternalScene extends window.BaseScene {
               name: "Geoff",
               clothing: npcClothing,
             },
-            jsx: "Olá aqui quem fala é izicode! estamos testando e progredindo!",
+            jsx: "Howdy farmer! Welcome to the test community island, stay safe out there.",
           });
         },
       },
